@@ -1,0 +1,1 @@
+sum(map(int,split(string(big(2)^1000),"")))
